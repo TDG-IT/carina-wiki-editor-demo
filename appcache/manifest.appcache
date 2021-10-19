@@ -1,11 +1,8 @@
 CACHE MANIFEST
-#ver:18/10/2021, 15:16:47
+#ver:19/10/2021, 23:38:35
 #plugin:5.0.5
 
 CACHE:
-./icons-f97fae2f92515bcda5e9f3e36cbb2017/favicon.ico
-./icons-f97fae2f92515bcda5e9f3e36cbb2017/manifest.json
-./icons-f97fae2f92515bcda5e9f3e36cbb2017/manifest.webapp
 ./c41f2b90c69370845f53.worker.js
 ./static/fonts/RobotoMono-Bold.819f3b2.woff
 ./static/fonts/RobotoMono-Regular.0b6a547.woff
@@ -14,24 +11,24 @@ CACHE:
 ./static/fonts/lato-normal-italic.f28f2d6.woff
 ./static/fonts/lato-normal.27bd77b.woff
 ./static/js/vendor.71b5e9f16c0cca0d65e1.js
-./static/js/app.b024bc689914615dbe7e.js
-./static/js/manifest.0cf99a9cfc944b1d5bfd.js
-./static/css/app.b201f9db56192ae01180d6cb1b5d5a8f.css
-./static/landing/katex.gif
+./static/js/app.9b47c49f5e5b6c8e4bc9.js
+./static/js/manifest.0f03d68d766a017af7c6.js
+./static/css/app.67a070a20f9d26a3399d7eef24242c3d.css
 ./static/landing/gfm.png
-./static/landing/discussion.png
-./static/landing/mermaid.gif
+./static/landing/katex.gif
 ./static/landing/favicon.ico
 ./static/landing/logo.svg
 ./static/landing/abc.png
-./static/landing/navigation-bar.png
-./static/landing/twemoji.png
+./static/landing/mermaid.gif
+./static/landing/discussion.png
 ./static/landing/scroll-sync.gif
-./static/landing/smart-layout.png
-./static/sitemap.xml
 ./static/landing/providers.png
-./static/landing/syntax-highlighting.gif
+./static/landing/smart-layout.png
+./static/landing/navigation-bar.png
 ./static/landing/workspace.png
+./static/landing/syntax-highlighting.gif
+./static/landing/twemoji.png
+./static/sitemap.xml
 ./manifest.d556a821c4e7a0c6cac225a7e198ec4e.json
 ./icon_512x512.148ed2397c1083b4201b036ee345db86.png
 ./icon_384x384.0c70543586344a2aaede0780f1f66a8d.png
